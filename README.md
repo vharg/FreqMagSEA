@@ -10,9 +10,6 @@ Python code to derive frequency-magnitude relationships for volcanoes in Southea
 * [Status](#status)
 * [Contact](#contact)
 
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-
 ## Libraries/packages
 * [Pandas](https://pandas.pydata.org/) - Version 0.25.1
 * [Numpy](https://numpy.org/) - Version 1.16.5
