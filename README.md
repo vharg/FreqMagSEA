@@ -65,5 +65,5 @@ To do list:
 Project is: in progress
 
 ## Contact
-Josh Hayes
+Josh Hayes  
 Susanna Jenkins
