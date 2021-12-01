@@ -1,4 +1,10 @@
 ﻿Volcano Number,Volcano Name,Country,Primary Volcano Type,Activity Evidence,Last Known Eruption,Region,Subregion,Latitude,Longitude,Elevation (m),Dominant Rock Type,Tectonic Setting
+263160,Gunung Putri,Indonesia,Lava dome(s),None,Pleistocene,Indonesia,,-7.136,108.076,1538,Andesite / Basaltic Andesite,Subduction zone / Continental crust (>25 km)
+275090,Lower Chindwin,Burma (Myanmar),Volcanic field,None,Pleistocene,Philippines and SE Asia,,22.28,95.1,385,Basalt / Picro-Basalt,Intraplate / Continental crust (>25 km)
+263150,Talagabodas,Indonesia,Stratovolcano,None,Unknown - unrest/Holocene,Indonesia,,-7.208,108.07,2201,Basalt / Picro-Basalt,Subduction zone / Continental crust (>25 km)
+263292,Malang Plain,Indonesia,Maar(s),None,Pleistocene,Indonesia,,-8.067,112.733,662,No data,Subduction zone / Continental crust (>25 km)
+275010,Leizhou Bandao,China,Volcanic field,None,Pleistocene,Philippines and SE Asia,,20.78,110.17,259,Basalt / Picro-Basalt,Intraplate / Continental crust (>25 km)
+263081,Malabar ,Indonesia,Stratovolcano,None,Pleistocene,Indonesia,,-7.132,107.639,2307,Andesite / Basaltic Andesite,Subduction zone / Continental crust (>25 km)
 210010,West Eifel Volcanic Field,Germany,Maar(s),Eruption Dated,8300 BCE,Mediterranean and Western Asia,Western Europe,50.17,6.85,600,Foidite,Rift zone / Continental crust (>25 km)
 210020,Chaine des Puys,France,Lava dome(s),Eruption Dated,4040 BCE,Mediterranean and Western Asia,Western Europe,45.775,2.97,1464,Basalt / Picro-Basalt,Rift zone / Continental crust (>25 km)
 210030,Olot Volcanic Field,Spain,Pyroclastic cone(s),Evidence Credible,Unknown,Mediterranean and Western Asia,Western Europe,42.17,2.53,893,Trachybasalt / Tephrite Basanite,Intraplate / Continental crust (>25 km)
@@ -410,7 +416,7 @@
 264040,Tambora,Indonesia,Stratovolcano,Eruption Observed,1967 CE,Indonesia,Lesser Sunda Islands,-8.25,118,2850,Trachybasalt / Tephrite Basanite,Subduction zone / Continental crust (>25 km)
 264050,Sangeang Api,Indonesia,Complex,Eruption Observed,2020 CE,Indonesia,Lesser Sunda Islands,-8.2,119.07,1912,Trachybasalt / Tephrite Basanite,Subduction zone / Continental crust (>25 km)
 264060,"Sano, Wai",Indonesia,Caldera,Evidence Credible,Unknown,Indonesia,Lesser Sunda Islands,-8.724,119.986,1319,Dacite,Subduction zone / Continental crust (>25 km)
-264071,Ranakah,Indonesia,Lava dome(s),Eruption Observed,1991 CE,Indonesia,Lesser Sunda Islands,-8.62,120.52,2350,Andesite / Basaltic Andesite,Subduction zone / Continental crust (>25 km)
+264071,Ranakah,Indonesia,Lava dome,Eruption Observed,1991 CE,Indonesia,Lesser Sunda Islands,-8.62,120.52,2350,Andesite / Basaltic Andesite,Subduction zone / Continental crust (>25 km)
 264080,Inierie,Indonesia,Stratovolcano,Eruption Dated,8050 BCE,Indonesia,Lesser Sunda Islands,-8.875,120.95,2245,Andesite / Basaltic Andesite,Subduction zone / Crustal thickness unknown
 264090,Inielika,Indonesia,Complex,Eruption Observed,2001 CE,Indonesia,Lesser Sunda Islands,-8.73,120.98,1559,Andesite / Basaltic Andesite,Subduction zone / Crustal thickness unknown
 264100,Ebulobo,Indonesia,Stratovolcano,Eruption Observed,1969 CE,Indonesia,Lesser Sunda Islands,-8.817,121.191,2096,Andesite / Basaltic Andesite,Subduction zone / Crustal thickness unknown
