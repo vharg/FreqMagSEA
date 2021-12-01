@@ -24,14 +24,14 @@ Python code to derive frequency-magnitude relationships for volcanoes in Southea
 A number of CSV files are provided with this code to conduct the analysis. Details of these are:  
 
 * Volcano_list.csv - Downloaded from Global Volcanism Program (GVP) on 04 Mar 2020
-* GVP\_DB_2019 - Downloaded from GVP on 27 Jan 2020
+* GVPDB2019 - Downloaded from GVP on 27 Jan 2020
 * Change_points_all.csv - Change points from [Mead and Magill 2014](https://doi.org/10.1007/s00445-014-0874-y).
 * Whelley_SEA - Volcanoes and classification of volcano type from [Whelley et al. 2015](https://doi.org/10.1007/s00445-014-0893-8)
 
 #### If you want to use updated volcano records
 Download the [Holocene volcanoes list](https://volcano.si.edu/list_volcano_holocene.cfm) and [eruptions database](https://volcano.si.edu/search_eruption.cfm) from GVP website. At present, the analysis will only run for volcanoes that are included within both the Whelley and GVP volcano list (n=173).
 
-**Note:** Some modification (e.g. headers) to spreadsheets downloaded from GVP may be necessary. See example spreadsheets: "GVP\_DB\_2019.csv" and "Volcano_list.csv" for formatting guidance. Ensure that spreadsheets are named consistently in two python scripts.
+**Note:** Some modification (e.g. headers) to spreadsheets downloaded from GVP may be necessary. See example spreadsheets: "GVPDB2019.csv" and "Volcano_list.csv" for formatting guidance. Ensure that spreadsheets are named consistently in two python scripts.
 
 ### To run a single volcano
 1. Comment out the "selected_volcanoes" variable (line 40 of "Analysis.py")
