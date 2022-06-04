@@ -1,5 +1,5 @@
 # FreqMagSEA v1
-Python code to derive frequency-magnitude relationships for volcanoes in Southeast Asia using Bayesian inference and model averaging. Code accompanies a forthcoming paper currently in preparation.
+Python code to derive frequency-magnitude relationships for volcanoes in Southeast Asia using Bayesian inference and model averaging. Code accompanies a forthcoming paper currently in press: https://www.frontiersin.org/articles/10.3389/feart.2022.895756/abstract.
 
 ## Table of contents
 * [General info](#general-info)
